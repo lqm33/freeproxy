@@ -37,7 +37,7 @@ elif islem==2:
     oa="HTTPS"
 elif islem==3:
     oa="SOCKS4"
-elif islem==3:
+elif islem==4:
     oa="SOCKS5"  
 for i in range(0,64):
         #for t in type:
