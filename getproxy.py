@@ -58,6 +58,7 @@ for i in range(0,64):
 
         if t.startswith(oa):
             t=t.replace(oa,"")
+            t=t.replace("s","")
             
             print(t)
             
